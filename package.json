@@ -6,6 +6,7 @@
 			"details": "https://github.com/thecotne/sublime-filezilla",
 			"releases": [
 				{
+					"version": "0.1.2",
 					"platforms": "*",
 					"sublime_text": "*",
 					"details": "https://github.com/thecotne/sublime-filezilla/tags"
