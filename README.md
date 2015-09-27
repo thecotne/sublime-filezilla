@@ -2,14 +2,7 @@
 sublime text FileZilla integration
 
 # how to install
-curently it's not added to package control so you may install it manualy like this
-
-1. open command palette
-2. search and click `Package Contrl: Add Repository`
-3. enter `package.json` file url `https://raw.githubusercontent.com/thecotne/sublime-filezilla/master/package.json`
-4. search and click `Package Contrl: Install Package`
-5. search and click `sublime FileZilla`
-6. enjoy!
+This package is available over package control (search for `FileZilla`)
 
 # how to use
 1. open any project which has `sftp-config.json`
